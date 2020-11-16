@@ -8,6 +8,7 @@
 - 👯 Theory of robber ✈
 - 🤔 Ruby
 - 💬 JavaScript
+- 😨 C#
 - 📫 Java
 - 😄 Python
 - ⚡ 내코드좀 고쳐줄사람..
