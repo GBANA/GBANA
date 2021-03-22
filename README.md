@@ -27,3 +27,11 @@
   <a href="mailto:hikiko0727@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hikiko0727@gmail.com"/></a>
 </p>
 <br>
+
+<br>
+  <h3 align="center"> 🏬My Projects 🏬 </h3>
+  <h4>(2020    ~        )Project ALpha</h4>
+  <h4>(2020.12 ~ 2021.01) FLK Project</h4>
+  <h4>(2020.05 ~ 2021.01) Corona-real</h4>
+  <h4>(2021.01 ~        ) AWAVVE</h4>
+</br>
