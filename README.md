@@ -20,14 +20,6 @@
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
 </p>
 
-<br><br>
-<h3 align="center"> 👍 Me 👌 </h3>
-<p align="center">
-  <a href="https://www.instagram.com/miyamoteo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/miyamoteo/"/></a>&nbsp
-  <a href="mailto:hikiko0727@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hikiko0727@gmail.com"/></a>
-</p>
-<br>
-
 <br>
   <h3 align="center"> 🏬My Projects 🏬 </h3>
   <h4 align="center">(2020    ~        ) Project ALpha</h4>
@@ -35,3 +27,12 @@
   <h4 align="center">(2020.05 ~ 2021.01) Corona-real</h4>
   <h4 align="center">(2021.01 ~        ) AWAVVE</h4>
 </br>
+
+
+<br><br>
+<h3 align="center"> 👍 Me 👌 </h3>
+<p align="center">
+  <a href="https://www.instagram.com/miyamoteo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/miyamoteo/"/></a>&nbsp
+  <a href="mailto:hikiko0727@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hikiko0727@gmail.com"/></a>
+</p>
+<br>
