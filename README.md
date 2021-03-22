@@ -1,8 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&height=300&section=header&text=GBANA&fontSize=90)
-<h1 align="center">I LOVE IZ*ONE</h1>
-<p>   </p>
-<p>   </p>
-<p>   </p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
