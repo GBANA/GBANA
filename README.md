@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&height=300&section=header&text=GBANA&fontSize=90)
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center">🛠  Tech Stack 🛠</h3>
 
 <p align="center">About my Techs</p>
 
@@ -19,7 +19,7 @@
 
 
 <br>
-  <h3 align="center"> 🏬My Projects 🏬 </h3>
+  <h3 align="center"> 🏬  My Projects 🏬 </h3>
   <h4 align="center">(2020    ~ 2021.05) Project ALpha </h4>
   <h4 align="center">(2020.12 ~ 2021.01) FLK Project </h4>
   <h4 align="center">(2020.05 ~ 2021.01) Corona-real </h4>
