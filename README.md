@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20JisuPark%20%20&height=200&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20GBANA%20%20&height=200&fontSize=90)
 
 <h3 align="center">🛠  Tech Stack 🛠</h3>
 
