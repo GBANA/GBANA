@@ -2,7 +2,7 @@
 
 <h3 align="center">🛠  GBANA 🛠</h3>
 
-<h4 align="center">I'm a Korean student who coding</h4>
+<p align="center">I'm a Korean student who coding</p>
 <br/>
 <br/>
 
