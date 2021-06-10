@@ -29,3 +29,6 @@
   <h4 align="center">(2021.03 ~ 2021.04) Roomy Space </h4>
 </br>
 
+<br>
+  <h3>📞 Contact 📞</h3>
+  <p>gbana.its.me@gmail.com</p>
