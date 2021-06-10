@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=GBANA&fontSize=70&animation=twinkling)
 
-<h2 align="center">🛠  GBANA 🛠</h2>
+<h2 align="center">🛠  My Github  🛠</h2>
 
 <p align="center">I'm a Korean student who coding</p>
 <br/>
