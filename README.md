@@ -30,5 +30,5 @@
 </br>
 
 <br>
-  <h3>📞 Contact 📞</h3>
-  <p>gbana.its.me@gmail.com</p>
+  <h3 align="center">📞 Contact 📞</h3>
+  <p align="center">gbana.its.me@gmail.com</p>
