@@ -23,10 +23,15 @@
 <br>
   <h3 align="center"> 🏬  My Projects 🏬 </h3>
   <h4 align="center">(2020    ~ 2021.05) Project ALpha </h4>
+  <p align="center">A project to create an all-around discode bot</p>
   <h4 align="center">(2020.05 ~ 2021.01) Corona-real </h4>
+  <p align="center">A site that tracks the confirmed status of corona in Korea.</p>
   <h4 align="center">(2020.12 ~ 2021.01) FLK Project </h4>
+  <p align="center">Interactive Web Portfolio Production Project</p>
   <h4 align="center">(2021.01 ~  now ) AWAVVE </h4>
+  <p align="center">New Forum Application Project Towards the World</p>
   <h4 align="center">(2021.03 ~ 2021.04) Roomy Space </h4>
+  <p align="center">Great rpg game production project</p>
 </br>
 
 <br>
