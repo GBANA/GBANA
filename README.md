@@ -27,5 +27,7 @@
   <h4 align="center">(2021.01 ~        ) AWAVVE </h4>
 </br>
 
+<p align="center">
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=GBANA)](https://solved.ac/GBANA)
+ </p>
 
