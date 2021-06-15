@@ -3,6 +3,7 @@
 <h2 align="center">🛠  My Github  🛠</h2>
 
 <p align="center">I'm a Korean student who coding</p>
+<p align="center">Web Developer & System Engineer</p>
 <br/>
 <br/>
 
