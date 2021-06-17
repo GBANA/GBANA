@@ -33,6 +33,8 @@
   <p align="center">New Forum Application Project Towards the World</p>
   <h4 align="center">(2021.03 ~ 2021.04) Roomy Space </h4>
   <p align="center">Great rpg game production project</p>
+  <h4 align="center">(2021.03 ~ 2021.04) Fei OS </h4>
+  <p align="center">New Operating system for Fhone</p>
 </br>
 
 <br>
