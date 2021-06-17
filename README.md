@@ -9,7 +9,7 @@
   <p align="center">A site that tracks the confirmed status of corona in Korea.</p>
   <h4 align="center">(2020.12 ~ 2021.01) FLK Project </h4>
   <p align="center">Interactive Web Portfolio Production Project</p>
-  <h4 align="center">(2021.01 ~ Suspend ) AWAVVE </h4>
+  <h4 align="center">(2021.01 ~ 2021.06 ) AWAVVE </h4>
   <p align="center">New Forum Application Project Towards the World</p>
   <h4 align="center">(2021.03 ~ 2021.04) Roomy Space </h4>
   <p align="center">Great rpg game production project</p>
