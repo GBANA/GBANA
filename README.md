@@ -1,10 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=GBANA&fontSize=70&animation=twinkling)
 
-<h2 align="center">🛠  My Github  🛠</h2>
-
-<p align="center">I'm a Korean student who coding</p>
-<p align="center">Web Developer & System Engineer</p>
-<br/>
 
 <br>
   <h2 align="center"> 🏬  My Projects 🏬 </h2>
@@ -34,7 +29,6 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
-</br>
 </br>
 <br>
   <h2 align="center">📞 Contact 📞</h2>
