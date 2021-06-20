@@ -14,7 +14,7 @@
   <h4 align="center">(2021.03 ~ 2021.04) Roomy Space </h4>
   <p align="center">Great rpg game production project</p>
   <h4 align="center">(2021.06 ~ Now) Onu OS </h4>
-  <p align="center">New Operating system, just hobbiest os</p>
+  <p align="center">New Operating system, just hobbyist os</p>
 </br>
 
 <h2 align="center">😉 About my Techs 😉</h2>
