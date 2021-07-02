@@ -4,7 +4,7 @@
 <br>
   <h2 align="center"> 🏬  My Projects 🏬 </h2>
   <h4 align="center">(2020    ~ 2021.05) Project ALpha </h4>
-  <p align="center">A project to create an all-around discode bot</p>
+  <p align="center">A project to create an all-around Discord Chat Bot</p>
   <h4 align="center">(2020.05 ~ 2021.01) Corona-real </h4>
   <p align="center">A site that tracks the confirmed status of corona in Korea.</p>
   <h4 align="center">(2020.12 ~ 2021.01) FLK Project </h4>
@@ -13,8 +13,10 @@
   <p align="center">New Forum Application Project Towards the World</p>
   <h4 align="center">(2021.03 ~ 2021.04) Roomy Space </h4>
   <p align="center">Great rpg game production project</p>
-  <h4 align="center">(2021.06 ~ Now) Onu OS </h4>
+  <h4 align="center">(2021.06 ~ Termination) Onu OS </h4>
   <p align="center">New Operating system, just hobbyist os</p>
+  <h4 align="center">(2021.07 ~ Now) NyanCoin </h4>
+  <p align="center">CryptoCurrency, Just For Funny</p>
 </br>
 
 <h2 align="center">😉 About my Techs 😉</h2>
