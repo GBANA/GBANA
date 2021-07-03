@@ -15,8 +15,8 @@
   <p align="center">Great rpg game production project</p>
   <h4 align="center">(2021.06 ~ Termination) Onu OS </h4>
   <p align="center">New Operating system, just hobbyist os</p>
-  <h4 align="center">(2021.07 ~ Now) NyanCoin </h4>
-  <p align="center">CryptoCurrency, Just For Funny</p>
+  <h4 align="center">(2021.07 ~ Now) OnuCoin </h4>
+  <p align="center">CryptoCurrency for Personal Work</p>
 </br>
 
 <h2 align="center">😉 About my Techs 😉</h2>
