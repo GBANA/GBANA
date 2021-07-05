@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a>&nbsp 
 </p>
+<br/>
 <div align="center" style="text-align:center"> 
   <a href="https://velog.io/@gbana/%ED%99%94%EC%A0%9C%EC%9D%98-%EC%A4%91%EC%8B%AC-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8"><img src="https://velog-readme-stats.vercel.app/api?name=gbana&tag=db"/></a>
 </div>
