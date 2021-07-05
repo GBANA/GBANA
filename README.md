@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a>&nbsp 
 </p>
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gbana&tag=화제의-중심-블록체인)](https://velog.io/@gbana)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gbana&tag=데이터베이스)](https://velog.io/@gbana)
 </br>
 <br>
   <h2 align="center">📞 Contact 📞</h2>
